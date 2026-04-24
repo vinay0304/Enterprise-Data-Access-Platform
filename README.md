@@ -11,7 +11,7 @@ Built using **Java 17**, **Kotlin**, **Spring Boot 3**, **PostgreSQL**, and **AW
 - **Observability:** Includes Spring Boot Actuator for health and metrics endpoints for deployment readiness.
 
 ## Prerequisites
-- Java 17+
+- Java 17+ 
 - Gradle (Optional: Gradle wrapper omitted to keep project clean, if you have Gradle installed `gradle bootRun` will work. If not, see alternatives below.)
 - Docker & Docker Compose (for running PostgreSQL locally)
 
